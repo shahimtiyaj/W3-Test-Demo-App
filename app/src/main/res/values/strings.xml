@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">W3 DemoApp</string>
+    <string name="title_no">item no</string>
+    <string name="title_name">item name</string>
+    <string name="toolbar_title">W3 Demo App</string>
+</resources>
